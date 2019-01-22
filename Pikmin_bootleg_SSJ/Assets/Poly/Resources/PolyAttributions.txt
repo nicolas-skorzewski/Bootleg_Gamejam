@@ -1,0 +1,7 @@
+This project uses the following items from Poly (http://poly.google.com):
+
+Title: pikmindrawing
+Author: Nicolas Skorzewski
+URL: https://poly.google.com/view/3HUGMwY8myT
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode

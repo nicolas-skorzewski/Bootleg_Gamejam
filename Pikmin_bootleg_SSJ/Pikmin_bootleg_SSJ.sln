@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pikmin_bootleg_SSJ", "Pikmin_bootleg_SSJ.csproj", "{CE58029D-F930-E2A9-378C-9775C5FB4DAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pikmin_bootleg_SSJ.Editor", "Pikmin_bootleg_SSJ.Editor.csproj", "{0FB88CC7-E38C-8C22-281C-D8A6E79E77EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE58029D-F930-E2A9-378C-9775C5FB4DAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE58029D-F930-E2A9-378C-9775C5FB4DAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE58029D-F930-E2A9-378C-9775C5FB4DAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE58029D-F930-E2A9-378C-9775C5FB4DAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FB88CC7-E38C-8C22-281C-D8A6E79E77EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FB88CC7-E38C-8C22-281C-D8A6E79E77EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FB88CC7-E38C-8C22-281C-D8A6E79E77EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FB88CC7-E38C-8C22-281C-D8A6E79E77EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
